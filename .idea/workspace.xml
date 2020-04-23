@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46e165aa-67d6-4e7e-84e1-f203e1f9af95" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1awfHx6EmvP5vAu2daSzT1Ibglr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46e165aa-67d6-4e7e-84e1-f203e1f9af95" name="Default Changelist" comment="" />
+      <created>1587651492353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587651492353</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="193" key="FileChooserDialogImpl" timestamp="1587651714174">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="552" y="193" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587651714174" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1587651626639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1587651626639" />
+    <state x="436" y="109" width="700" height="530" key="recent.locations.popup" timestamp="1587651642789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="109" width="700" height="530" key="recent.locations.popup/0.0.1366.728@0.0.1366.728" timestamp="1587651642789" />
+  </component>
+</project>
